@@ -1,0 +1,20 @@
+{
+  "participantAcquirerBankReference" : "PABR751479",
+  "cardTransactionProductInstanceReference" : "CTPIR720016",
+  "cardFinancialSettlementProcessTransactionConsolidationTaskRecord" : {},
+  "cardTransactionMerchantReference" : "CTMR756649",
+  "cardTransactionIssuingBankReference" : "CTIBR737270",
+  "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+  "participantIssuerBankReference" : "PIBR783999",
+  "cardFinancialSettlementProcessReference" : "CFSPR716620",
+  "cardTransactionType" : "cardTransactionType",
+  "cardTransactionMerchantAcquiringBankReference" : "CTMABR789146",
+  "cardTransactionLocationReference" : "CTLR706924",
+  "cardTransactionCurrency" : "USD",
+  "cardTransactionAmountType" : "original amount",
+  "cardTransactionProductServiceReference" : "CTPR798763",
+  "cardTransactionDateTime" : "09-22-2018",
+  "cardTransactionRecordReference" : "CTRR716114",
+  "cardFinancialSettlementProcessTransactionConsolidationTaskReference" : "CFSPTCTR790278",
+  "cardTransactionAmount" : "USD 250"
+}

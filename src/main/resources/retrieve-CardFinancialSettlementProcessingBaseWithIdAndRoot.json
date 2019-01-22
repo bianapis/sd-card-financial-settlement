@@ -1,0 +1,11 @@
+{
+  "participantAcquirerBankReference" : "PABR751479",
+  "cardFinancialSettlementProcessTransactionConsolidationTaskRecord" : {},
+  "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+  "participantIssuerBankReference" : "PIBR783999",
+  "cardFinancialSettlementProcessProcessingTaskReference" : "CFSPPTR722523",
+  "cardFinancialSettlementProcessReference" : "CFSPR716620",
+  "participantAcquirerBankSettlementTerms" : "participantAcquirerBankSettlementTerms",
+  "cardFinancialSettlementServicePaymentAdviceRecord" : {},
+  "participantIssuerBankSettlementTerms" : "participantIssuerBankSettlementTerms"
+}
